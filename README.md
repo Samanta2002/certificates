@@ -14,6 +14,8 @@ problem by automating the fine generation process and ex-posing the officers res
 in our country to some extent by ending the intervention of traffic police. Such system can be used widely for the authorities for effective monitoring and traffic management.
 
 
+
+
 ICPR:(27th International conference on Pattern Recognition)
 
 Topic: A Multi-Algorithm Predictive Model for Early Detection and Risk Assessment of Juvenile Diabetes Using Advanced Machine Learning Technique
