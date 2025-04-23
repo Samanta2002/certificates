@@ -1,4 +1,4 @@
-ICIDA:(3rd International Conference on Innovation and Data Analytics)
+**ICIDA:(3rd International Conference on Innovation and Data Analytics)**
 
 Topic: Seamless Traffic Regulation: Automatic fine generation (AFG) with SRGAN Model
 
@@ -16,7 +16,7 @@ in our country to some extent by ending the intervention of traffic police. Such
 
 
 
-ICPR:(27th International conference on Pattern Recognition)
+**ICPR:(27th International conference on Pattern Recognition)**
 
 Topic: A Multi-Algorithm Predictive Model for Early Detection and Risk Assessment of Juvenile Diabetes Using Advanced Machine Learning Technique
 
