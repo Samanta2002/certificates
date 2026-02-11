@@ -40,6 +40,7 @@
 **AICDAKD: (1st International Conference on Advancement of Intelligent Computing in Data Analysis and Knowledge Discovery)**
 
     Topic: Traffic Eye: Smart Enforcement System
+    
     Abstract. The growing population over the world and easy affordability of motor vehicles makes it very difficult to control traffic in crowded places. 
     Vehicles lacking proper documents remain a persistent issue for the government to maintain a perfect Traffic policy with the assurance of a clean, clear, 
     and safe environment. These issues lead to the rising of pollutions, crimes, and needless penalties. In order to solve this, we have developed a system 
